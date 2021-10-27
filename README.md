@@ -121,6 +121,9 @@ Building upon [https://www.pgmodeler.io/support/installation](pgModeler "A quick
       libiconv-2.dll libintl-8.dll $INSTALLATION_ROOT
    cp libdouble-conversion.dll $INSTALLATION_ROOT
    cp libzstd.dll $INSTALLATION_ROOT
+   cp libmd4c.dll $INSTALLATION_ROOT
+   cp libbrotlidec.dll $INSTALLATION_ROOT
+   cp libbrotlicommon.dll $INSTALLATION_ROOT
    ```
 
 ### Run pgModeler
